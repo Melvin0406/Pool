@@ -65,7 +65,7 @@
     <div id="content"></div>
 
     <script>
-        const characters = [
+        /*const characters = [
             {
                 name: "Kirito",
                 sexo: "Masculino",
@@ -2852,7 +2852,22 @@
                 demografia: "Shounen",
                 año: "2017"
             }
-        ];
+        ];*/
+
+        let characters = []; // Variable global que contendrá los personajes
+
+        // Función para cargar los datos de characters.json
+        function loadCharacters() {
+            fetch('characters.json')  // Cambia esto por la URL correcta
+                .then(response => response.json())  // Convierte la respuesta en JSON
+                .then(data => {
+                    characters = data;  // Asigna los datos a la variable global characters
+                })
+                .catch(error => console.error('Error cargando los personajes:', error));
+        }
+
+        // Llamar a loadCharacters al cargar la página
+        loadCharacters();
 
         document.getElementById('filtrador-btn').addEventListener('click', () => {
             const content = document.getElementById('content');
