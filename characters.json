@@ -10,7 +10,7 @@
         "rol": "Protagonista",
         "raza": "Humano",
         "generoAnime": "Acción, videojuegos, aventura, ciencia ficción, drama, fantasía, comedia romántica",
-        "demografia": "Shonen",
+        "demografia": "Shounen",
         "año": "2012"
     },
     {
@@ -24,7 +24,7 @@
         "rol": "Aliado",
         "raza": "Humano",
         "generoAnime": "Acción, videojuegos, aventura, ciencia ficción, drama, fantasía, comedia romántica",
-        "demografia": "Shonen",
+        "demografia": "Shounen",
         "año": "2012"
     },
     {
@@ -38,7 +38,7 @@
         "rol": "Aliada, Protagonista",
         "raza": "IA",
         "generoAnime": "Acción, videojuegos, aventura, ciencia ficción, drama, fantasía, comedia romántica",
-        "demografia": "Shonen",
+        "demografia": "Shounen",
         "año": "2018"
     },
     {
@@ -52,7 +52,7 @@
         "rol": "Aliado",
         "raza": "IA",
         "generoAnime": "Acción, videojuegos, aventura, ciencia ficción, drama, fantasía, comedia romántica",
-        "demografia": "Shonen",
+        "demografia": "Shounen",
         "año": "2018"
     },
     {
@@ -122,7 +122,7 @@
         "rol": "Protagonista",
         "raza": "Humano",
         "generoAnime": "Acción, Fantasía",
-        "demografia": "Shonen",
+        "demografia": "Shounen",
         "año": "2017"
     },
     {
@@ -136,7 +136,7 @@
         "rol": "Aliado",
         "raza": "Humano",
         "generoAnime": "Acción, Fantasía",
-        "demografia": "Shonen",
+        "demografia": "Shounen",
         "año": "2017"
     },
     {
@@ -150,7 +150,7 @@
         "rol": "Aliado",
         "raza": "Humano",
         "generoAnime": "Acción, Aventuras, Comedia, Fantasía",
-        "demografia": "Shonen",
+        "demografia": "Shounen",
         "año": "1999"
     },
     {
@@ -164,7 +164,7 @@
         "rol": "Protagonista",
         "raza": "Humano",
         "generoAnime": "Acción, Aventuras, Comedia, Fantasía",
-        "demografia": "Shonen",
+        "demografia": "Shounen",
         "año": "1999"
     },
     {
@@ -178,7 +178,7 @@
         "rol": "Aliado",
         "raza": "Humano",
         "generoAnime": "Acción, Aventuras, Comedia, Fantasía",
-        "demografia": "Shonen",
+        "demografia": "Shounen",
         "año": "1999"
     },
     {
@@ -192,7 +192,7 @@
         "rol": "Aliado",
         "raza": "Humano",
         "generoAnime": "Acción, Aventuras, Comedia, Fantasía",
-        "demografia": "Shonen",
+        "demografia": "Shounen",
         "año": "1999"
     },
     {
@@ -206,7 +206,7 @@
         "rol": "Aliado",
         "raza": "Humano",
         "generoAnime": "Acción, Aventuras, Comedia, Fantasía",
-        "demografia": "Shonen",
+        "demografia": "Shounen",
         "año": "1999"
     },
     {
@@ -220,7 +220,7 @@
         "rol": "Aliado",
         "raza": "Reno",
         "generoAnime": "Acción, Aventuras, Comedia, Fantasía",
-        "demografia": "Shonen",
+        "demografia": "Shounen",
         "año": "1999"
     },
     {
@@ -234,7 +234,7 @@
         "rol": "Aliado",
         "raza": "Humano",
         "generoAnime": "Acción, Aventuras, Comedia, Fantasía",
-        "demografia": "Shonen",
+        "demografia": "Shounen",
         "año": "1999"
     },
     {
@@ -248,7 +248,7 @@
         "rol": "Aliado",
         "raza": "Humano, Cyborg",
         "generoAnime": "Acción, Aventuras, Comedia, Fantasía",
-        "demografia": "Shonen",
+        "demografia": "Shounen",
         "año": "1999"
     },
     {
@@ -695,7 +695,7 @@
         "pelea": "Afirmativo, Superfuerza, velocidad, agilidad, magia/poder",
         "rol": "Protagonista",
         "raza": "Humano",
-        "generoAnime": "Acción, drama, escolar, shonen, superhéroes",
+        "generoAnime": "Acción, drama, escolar, Shounen, superhéroes",
         "demografia": "Shounen",
         "año": "2016"
     },
@@ -709,7 +709,7 @@
         "pelea": "Afirmativo, Magia/poder, manipulación de la gravedad",
         "rol": "Aliada",
         "raza": "Humano",
-        "generoAnime": "Acción, drama, escolar, shonen, superhéroes",
+        "generoAnime": "Acción, drama, escolar, Shounen, superhéroes",
         "demografia": "Shounen",
         "año": "2016"
     },
@@ -723,7 +723,7 @@
         "pelea": "Afirmativo, Explosión, Magia/poder",
         "rol": "Aliado, Rival",
         "raza": "Humano",
-        "generoAnime": "Acción, drama, escolar, shonen, superhéroes",
+        "generoAnime": "Acción, drama, escolar, Shounen, superhéroes",
         "demografia": "Shounen",
         "año": "2016"
     },
@@ -1844,7 +1844,7 @@
         "rol": "Protagonista",
         "raza": "Humano",
         "generoAnime": "Aventura, ciencia ficción apocalíptica, comedia",
-        "demografia": "Shonen",
+        "demografia": "Shounen",
         "año": "2019"
     },
     {
@@ -1858,7 +1858,7 @@
         "rol": "Aliada",
         "raza": "Humano",
         "generoAnime": "Aventura, ciencia ficción apocalíptica, comedia",
-        "demografia": "Shonen",
+        "demografia": "Shounen",
         "año": "2019"
     },
     {
@@ -1872,7 +1872,7 @@
         "rol": "Protagonista",
         "raza": "Demonio",
         "generoAnime": "Acción, aventura, Magia, comedia, drama, fantasía, ecchi",
-        "demografia": "Shonen",
+        "demografia": "Shounen",
         "año": "2014"
     },
     {
@@ -1886,7 +1886,7 @@
         "rol": "Aliada",
         "raza": "Humana",
         "generoAnime": "Acción, aventura, Magia, comedia, drama, fantasía, ecchi",
-        "demografia": "Shonen",
+        "demografia": "Shounen",
         "año": "2014"
     },
     {
@@ -1900,7 +1900,7 @@
         "rol": "Aliada",
         "raza": "Gigante",
         "generoAnime": "Acción, aventura, Magia, comedia, drama, fantasía, ecchi",
-        "demografia": "Shonen",
+        "demografia": "Shounen",
         "año": "2014"
     },
     {
@@ -1914,7 +1914,7 @@
         "rol": "Protagonista",
         "raza": "Humano",
         "generoAnime": "Ciencia ficción, drama, fantasía oscura, terror, misterio, suspenso psicológico",
-        "demografia": "Shonen",
+        "demografia": "Shounen",
         "año": "2019"
     },
     {
@@ -1928,7 +1928,7 @@
         "rol": "Aliado",
         "raza": "Humano",
         "generoAnime": "Ciencia ficción, drama, fantasía oscura, terror, misterio, suspenso psicológico",
-        "demografia": "Shonen",
+        "demografia": "Shounen",
         "año": "2019"
     },
     {
@@ -2194,7 +2194,7 @@
         "rol": "Protagonista",
         "raza": "Humano",
         "generoAnime": "Comedia, cocina, drama, escolar, acción, ecchi",
-        "demografia": "Shonen",
+        "demografia": "Shounen",
         "año": "2015"
     },
     {
@@ -2208,7 +2208,7 @@
         "rol": "Aliada, rival",
         "raza": "Humano",
         "generoAnime": "Comedia, cocina, drama, escolar, acción, ecchi",
-        "demografia": "Shonen",
+        "demografia": "Shounen",
         "año": "2015"
     },
     {
@@ -2222,7 +2222,7 @@
         "rol": "Aliada",
         "raza": "Humano",
         "generoAnime": "Comedia, cocina, drama, escolar, acción, ecchi",
-        "demografia": "Shonen",
+        "demografia": "Shounen",
         "año": "2015"
     },
     {
@@ -2446,7 +2446,7 @@
         "rol": "Protagonista",
         "raza": "Humano, Demonio",
         "generoAnime": "Acción, escolar, fantasía, isekai, romance, harem",
-        "demografia": "Shonen",
+        "demografia": "Shounen",
         "año": "2020"
     },
     {
